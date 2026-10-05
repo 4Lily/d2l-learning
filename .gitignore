@@ -1,0 +1,11 @@
+other-files/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+data/
+*.pt
+*.params
+chapter_deep-learning-computation/x-file
+chapter_deep-learning-computation/x-files
+chapter_deep-learning-computation/mydict
